@@ -1,0 +1,6 @@
+AverageShortestPathLength,BetweennessCentrality,ClosenessCentrality,ClusteringCoefficient,Degree,Eccentricity,FamilyVar1,IsSingleNode,name,NeighborhoodConnectivity,NumberOfDirectedEdges,NumberOfUndirectedEdges,PartnerOfMultiEdgedNodePairs,PhylumVar1,Radiality,selected,SelfLoops,shared name,Stress,TopologicalCoefficient
+1.25,0,0.8,1,3,2,"""Paraprevotellaceae""",FALSE,"""ASV105""",3.666666667,0,3,0,"""Bacteroidetes""",0.9375,FALSE,0,"""ASV105""",0,0.916666667
+1.5,0,0.666666667,1,2,2,"""Prevotellaceae""",FALSE,"""ASV21""",4,0,2,0,"""Bacteroidetes""",0.875,FALSE,0,"""ASV21""",0,1
+1,0.166666667,1,0.666666667,4,1,"""Paraprevotellaceae""",FALSE,"""ASV33""",3,0,4,0,"""Bacteroidetes""",1,FALSE,0,"""ASV33""",4,0.75
+1,0.166666667,1,0.666666667,4,1,"""Paraprevotellaceae""",FALSE,"""ASV62""",3,0,4,0,"""Bacteroidetes""",1,FALSE,0,"""ASV62""",4,0.75
+1.25,0,0.8,1,3,2,"""Paraprevotellaceae""",FALSE,"""ASV97""",3.666666667,0,3,0,"""Bacteroidetes""",0.9375,FALSE,0,"""ASV97""",0,0.916666667

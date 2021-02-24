@@ -1,0 +1,15 @@
+AverageShortestPathLength,BetweennessCentrality,ClosenessCentrality,ClusteringCoefficient,Degree,Eccentricity,FamilyVar1,IsSingleNode,name,NeighborhoodConnectivity,NumberOfDirectedEdges,NumberOfUndirectedEdges,PartnerOfMultiEdgedNodePairs,PhylumVar1,Radiality,selected,SelfLoops,shared name,Stress,TopologicalCoefficient
+1,0,1,0,1,1,"""Bacteroidaceae""",FALSE,"""ASV143""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV143""",0,0
+1,0,1,0,1,1,"""Lachnospiraceae""",FALSE,"""ASV152""",1,0,1,0,"""Firmicutes""",1,FALSE,0,"""ASV152""",0,0
+1,0,1,0,1,1,"""Prevotellaceae""",FALSE,"""ASV161""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV161""",0,0
+1,0,1,0,1,1,"""Prevotellaceae""",FALSE,"""ASV173""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV173""",0,0
+1,0,1,0,1,1,"""Bacteroidaceae""",FALSE,"""ASV210""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV210""",0,0
+1,0,1,0,1,1,"""Bacteroidaceae""",FALSE,"""ASV255""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV255""",0,0
+1,0,1,0,1,1,"""Prevotellaceae""",FALSE,"""ASV264""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV264""",0,0
+1,0,1,0,1,1,"""Prevotellaceae""",FALSE,"""ASV273""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV273""",0,0
+1,0,1,0,1,1,"""Bacteroidaceae""",FALSE,"""ASV399""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV399""",0,0
+1,0,1,0,1,1,"""Coriobacteriaceae""",FALSE,"""ASV425""",1,0,1,0,"""Actinobacteria""",1,FALSE,0,"""ASV425""",0,0
+1,0,1,0,1,1,"""Ruminococcaceae""",FALSE,"""ASV441""",1,0,1,0,"""Firmicutes""",1,FALSE,0,"""ASV441""",0,0
+1,0,1,0,1,1,"""Prevotellaceae""",FALSE,"""ASV50""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV50""",0,0
+1,0,1,0,1,1,"""Methanobacteriaceae""",FALSE,"""ASV8""",1,0,1,0,"""Euryarchaeota""",1,FALSE,0,"""ASV8""",0,0
+1,0,1,0,1,1,"""Prevotellaceae""",FALSE,"""ASV88""",1,0,1,0,"""Bacteroidetes""",1,FALSE,0,"""ASV88""",0,0
