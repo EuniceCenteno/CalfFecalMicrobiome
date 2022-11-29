@@ -1,8 +1,0 @@
-AverageShortestPathLength,BetweennessCentrality,ClosenessCentrality,ClusteringCoefficient,Degree,Eccentricity,FamilyVar1,IsSingleNode,name,NeighborhoodConnectivity,NumberOfDirectedEdges,NumberOfUndirectedEdges,PartnerOfMultiEdgedNodePairs,PhylumVar1,Radiality,selected,SelfLoops,shared name,Stress,TopologicalCoefficient
-1,0,1,1,2,1,"""Prevotellaceae""",FALSE,"""ASV107""",2,0,2,0,"""Bacteroidetes""",1,FALSE,0,"""ASV107""",0,1
-1,0.666666667,1,0.333333333,3,1,"""Clostridiaceae""",FALSE,"""ASV125""",1.666666667,0,3,0,"""Firmicutes""",1,FALSE,0,"""ASV125""",4,0.666666667
-1,0,1,1,2,1,"""Prevotellaceae""",FALSE,"""ASV128""",2,0,2,0,"""Bacteroidetes""",1,FALSE,0,"""ASV128""",0,1
-1,0,1,1,2,1,"""Prevotellaceae""",FALSE,"""ASV138""",2,0,2,0,"""Bacteroidetes""",1,FALSE,0,"""ASV138""",0,1
-1.333333333,0,0.75,1,2,2,"""Turicibacteraceae""",FALSE,"""ASV439""",2.5,0,2,0,"""Firmicutes""",0.888888889,FALSE,0,"""ASV439""",0,0.833333333
-1.333333333,0,0.75,1,2,2,"""Peptostreptococcaceae""",FALSE,"""ASV548""",2.5,0,2,0,"""Firmicutes""",0.888888889,FALSE,0,"""ASV548""",0,0.833333333
-1.666666667,0,0.6,0,1,2,"""Peptostreptococcaceae""",FALSE,"""ASV550""",3,0,1,0,"""Firmicutes""",0.777777778,FALSE,0,"""ASV550""",0,0
