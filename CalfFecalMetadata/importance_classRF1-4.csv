@@ -1,0 +1,41 @@
+Row.names,%IncMSE,IncNodePurity,Phylum,Class,Order,Family,Genus,Species,SpeciesASV,Confidence,OTUs
+ASV10,0.3304254,24.71011255,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,Collinsella aerofaciens,Collinsella aerofaciens-ASV10,0.9812635,0eb0daf4087d74b006f50a5a06899085
+ASV100,0.245956643,19.30727855,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Oscillospira,Oscillospira-ASV100,0.9995531,921d37d118d20869acb71faf26ee8b7b
+ASV106,0.180878804,14.22967774,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Dorea,Dorea-ASV106,0.9269445,ab974875ade7d272f72fc67f5098e33f
+ASV308,0.067286292,5.695549742,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Dorea,Dorea-ASV308,0.9698032,4ec5655c0f1b9e4cda53f357f54f4722
+ASV13,0.065437392,6.102716438,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae-ASV13,0.9987203,c0a4573d567ff3145a43d284b8c43627
+ASV42,0.060759854,7.16205053,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Subdoligranulum,Subdoligranulum variabile,Subdoligranulum variabile-ASV42,0.858943,a4adc2874da0a0f68b5b3f1c2737e835
+ASV195,0.056241787,3.467331316,Firmicutes,Clostridia,Clostridiales,Clostridiales,Clostridiales,Clostridiales,Clostridiales-ASV195,0.9956584,18119e843f1558924b98ad9db44ba68f
+ASV314,0.055274942,4.245301771,Firmicutes,Clostridia,Clostridiales,[Mogibacteriaceae],[Mogibacteriaceae],Mogibacteriaceae,Mogibacteriaceae-ASV314,0.9976784,477d05a2e1dd6ea7f2c902e660c4faa5
+ASV89,0.049548289,4.139055713,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae-ASV89,0.9955213,3ed8119a771c52c14ae6d180db4c9097
+ASV171,0.039851692,4.073692724,Firmicutes,Clostridia,Clostridiales,Clostridiales,Clostridiales,Clostridiales,Clostridiales-ASV171,0.9928519,6100fd89601b8c5988350fd5856a5ac2
+ASV20,0.037308892,3.371297002,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Butyricicoccus,Butyricicoccus pullicaecorum,Butyricicoccus pullicaecorum-ASV20,0.9999889,badbfd2b58467ef60bc1d748035097b8
+ASV91,0.024700235,2.150385171,Firmicutes,Clostridia,Clostridiales,Clostridiales,Clostridiales,Clostridiales,Clostridiales-ASV91,0.9927,44daa55f2a250900410552f921fd0a85
+ASV873,0.024031259,1.504322344,Firmicutes,Clostridia,Clostridiales,[Mogibacteriaceae],[Mogibacteriaceae],Mogibacteriaceae,Mogibacteriaceae-ASV873,0.9624859,b1e07a67cb841ccfb5fff2efd97a28a5
+ASV258,0.020180613,1.862132668,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Dorea formicigenerans,Dorea formicigenerans-ASV258,0.9971305,a3e7ffdb3cd725e3d9af1befe8027bdf
+ASV9,0.012649168,1.245858362,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides,Bacteroides-ASV9,0.9988047,cd052ea117eaee088711fa892ce6b94a
+ASV31,0.011461399,0.799631066,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus,Lactobacillus-ASV31,0.9999615,a9f80dc5b97921074d4d246ae398bde3
+ASV28,0.010401022,0.563245786,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus,Lactobacillus-ASV28,0.9999991,ffd9a2cc9e7f9a800e0eebdf1cc469cf
+ASV27,0.009717296,0.447369331,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Faecalibacterium,prausnitzii,Faecalibacterium prausnitzii-ASV27,0.9964851,32ef2c891d8942b56171c062f6213dad
+ASV174,0.008293285,0.700670231,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae-ASV174,0.9999791,986c04b45216d746c25a89bedcb7d9e5
+ASV418,0.008174269,0.520686826,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae,Lachnospiraceae,Lachnospiraceae-ASV418,0.9946341,96206010024b37ad91757f6b52aa739b
+ASV311,0.008097979,0.432191739,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Oscillospira,Oscillospira,Oscillospira-ASV311,0.9989735,9ea142f1050040bc89bc20c65f0a366c
+ASV435,0.007759043,0.861773472,Bacteroidetes,Bacteroidia,Bacteroidales,S24-7,S24-7,S24-7,S24-7-ASV435,0.9999991,f75b54af3da9200a2d50bd003cccc3e2
+ASV63,0.007435734,0.639352717,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Coriobacteriaceae,Coriobacteriaceae,Coriobacteriaceae-ASV63,0.9981132,58975903ce9f4b74b444a9cc65c2470d
+ASV44,0.007354282,1.310391054,Bacteroidetes,Bacteroidia,Bacteroidales,S24-7,S24-7,S24-7,S24-7-ASV44,1,b485c89d6bfe5add847faa82e7c79a8d
+ASV207,0.007163987,0.643590207,Bacteroidetes,Bacteroidia,Bacteroidales,S24-7,S24-7,S24-7,S24-7-ASV207,0.9999997,53eeb884f5e2d2fdbab352fd68c346d9
+ASV630,0.006804109,0.619363886,Firmicutes,Clostridia,Clostridiales,Clostridiales,Clostridiales,Clostridiales,Clostridiales-ASV630,0.9997659,5bd66901a258c3ea4a830ed455e44950
+ASV407,0.005815629,0.457677494,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae,Lachnospiraceae,Lachnospiraceae-ASV407,0.9898017,f2ae5326f0aa7a099079e26e559496ed
+ASV21,0.005717445,0.083955131,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella,Prevotella-ASV21,0.9999999,aae27ae0922499a5308913b0474d7669
+ASV288,0.004774848,0.419738236,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae,Lachnospiraceae,Lachnospiraceae-ASV288,0.9723315,0cb0398a4a4390c9e8a4ba40177b19fd
+ASV60,0.004439345,0.36652372,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Blautia,Blautia-ASV60,0.9936203,11090736ffa8fedc5f8b2d6c439d1812
+ASV652,0.003975263,0.333382846,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnospiraceae,Lachnospiraceae,Lachnospiraceae-ASV652,0.9731162,a24599372e0826b3db30cf93db11d435
+ASV212,0.003871024,0.028385604,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidales,Bacteroidales,Bacteroidales,Bacteroidales-ASV212,0.9835637,63d6a5da17aaed7e5e7001a1f4d5410a
+ASV360,0.003848649,0.09759632,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Dorea,Dorea,Dorea-ASV360,0.7688874,c573835fb735ceb9b144d388285b690b
+ASV579,0.003639898,0.613491347,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae-ASV579,0.8952156,41e11af6a7ea522b359d3c30feef93a5
+ASV167,0.003460218,0.542452771,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Blautia,Blautia-ASV167,0.9979345,4b0fe6b1ec7caf6b644dd5ff08a03fbb
+ASV789,0.003346851,0.131491285,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Butyrivibrio,Butyrivibrio,Butyrivibrio-ASV789,0.9991067,7176381435ded1e42ee14c6cb09a56ae
+ASV47,0.003331627,0.345834904,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Parabacteroides,Parabacteroides,Parabacteroides-ASV47,0.9999998,e184e1348ac071996a237af4fb3193e3
+ASV707,0.003143497,0.433445881,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae,Ruminococcaceae-ASV707,0.9360526,984264b6122b069118bb129caf3d8ad4
+ASV79,0.003139234,0.218472191,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Blautia,Blautia,Blautia-ASV79,0.9988101,61dc3200b9d0a4f3f137756143c29d38
+ASV228,0.003023764,0.17886084,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Roseburia,Roseburia,Roseburia-ASV228,0.8065429,28986f2a0a82efc9b6fff5cdff7f8522
